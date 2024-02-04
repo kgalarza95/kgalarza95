@@ -19,7 +19,7 @@ Mi enfoque se centra en escribir código limpio, escalable y mantenible, y me si
 
 
 ## Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=kgalarza&show_icons=true&count_private=true&hide=contribs)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=kgalarza95&show_icons=true&count_private=true&hide=contribs)
 
 ## Contacto
 - 📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/kevin-galarza-vera/).
